@@ -1,4 +1,5 @@
 // Two Sum
+// Array | Hash Table
 #include <iostream>
 #include <vector>
 #include <unordered_map>
